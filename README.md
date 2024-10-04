@@ -1,16 +1,11 @@
 # Spring Boot Microservices Project
-(Eureka Server, Config Server, API Gateway, Kafka, File Storage, JWT, Authentication, Authorization, Redis, Docker)
 
 <img src ="resources/screenshot.png" alt="architecture">
 
 
 # About the project
 
-<ul style="list-style-type:disc">
-  <li>This project is based Spring Boot Microservices</li>
-  <li>User can register and login through auth service by user role (ADMIN or USER) through api gateway</li>
-  <li>User can send any request to relevant service through api gateway with its bearer token</li>
-</ul>
+### This project is based Spring Boot Microservices
 
 8 services whose name are shown below have been devised within the scope of this project.
 
