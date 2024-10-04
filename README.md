@@ -1,4 +1,4 @@
-# Spring Boot Microservices Project
+# E-commerce Project with Spring Boot Microservices
 
 <img src ="resources/screenshot.png" alt="architecture">
 
